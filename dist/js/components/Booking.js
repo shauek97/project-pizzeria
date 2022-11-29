@@ -279,13 +279,7 @@ class Booking{
       }).then(function(parsedResponse){
         console.log('parsedResponse', parsedResponse);
       });
-   
-
-
-    
-
   }
-
 }
 
 export default Booking;

@@ -130,14 +130,7 @@ class Cart{
       }).then(function(parsedResponse){
         console.log('parsedResponse', parsedResponse);
       });
-    
-
-
     console.log(payload);
   }
-
-  
-
 }
-
 export default Cart;
